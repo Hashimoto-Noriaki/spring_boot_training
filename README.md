@@ -1,7 +1,15 @@
-# Spring Bootをはじめて使いました。
+### Spring Boot
 
-# サーバー起動
+### サーバー起動
 ```
 ./gradlew bootRun
 ```
+
+### ビルド
+```
+./gradlew clean build
+```
+
+
+
 
